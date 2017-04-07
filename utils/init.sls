@@ -4,3 +4,4 @@ install_utils:
         - vim
         - tree
         - git
+        - default-jdk
